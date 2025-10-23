@@ -70,7 +70,7 @@ const HeroSection = () => {
       {/* Tagline */}
       {!loading && tracks.length === 0 && (
         <div className="flex flex-col items-center justify-center mt-20 text-center px-4">
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white">
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
             Welcome to{" "}
             <span className="text-4xl font-bold">Music Streaming</span> App 🎵
           </h2>
