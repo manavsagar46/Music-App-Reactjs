@@ -74,7 +74,7 @@ const HeroSection = () => {
             Welcome to{" "}
             <span className="text-4xl font-bold">Music Streaming</span> App 🎵
           </h2>
-          <p className="text-lg text-gray-900 dark:text-gray-300 mt-2">
+          <p className="text-lg text-gray-900 mt-2">
             Search songs here and enjoy your music!
           </p>
         </div>
